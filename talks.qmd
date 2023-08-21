@@ -1,0 +1,32 @@
+---
+title: "Talks (a selection of)"
+format: 
+  html:
+    toc: true
+    toc-location: right
+    link-external-newwindow: true
+---
+
+Only including those in which I was doing the talking.
+
+## Conference Presentations
+
+<!-- Winter, S. D. (2023, August). [Goodness-of-fit and Theory Corroboration Through Informative Prior Specifications.](static/talks/APA2023_Winter_BayesPriorsTheory.pdf) In W. Bonifay (chair) High Risk, High Reward: Methods for Rigorous Testing of Psychological Theories. Talk presented at the American Psychological Association (APA) Convention, Washington, DC. -->
+
+<!-- Winter, S. D. & Bonifay, W. (2023, April). [Prior Specification in Bayesian Estimation Affects a Model's Fitting Propensity.](static/talks/NCME2023_Winter.pdf) Talk presented at the National Council on Measurement and Education (NCME) Conference, Chicago, Il. -->
+
+<!-- Winter, S. D., Sinval, J., & Merkle, E. (2023, April). [Comparing Priors for Estimating Sparse Ordinal Indicators in Bayesian Factor Analyses.](static/talks/NCME_Winter_Dirichlet.pdf) Talk presented at the National Council on Measurement and Education (NCME) Conference, Chicago, Il. -->
+
+McCall, C. & Winter, S. D. (2022, July). [Using intersectional research methods to examine intervention efficacy.](https://osf.io/4gsvf/) Roundtable Discussion presented at the Annual Conference of the International School Psychology Association (ISPA), Leuven, Belgium.
+
+Winter, S. D. & Depaoli, S. (2021, July). [Detecting Misspecification in Latent Growth Models with Bayesian Fit Indices.](static/talks/IMPS2021_Winter.pdf) Talk presented at the International Meeting of the Psychometric Society (IMPS).
+
+Winter, S. D. & Smid, S. (2019, May). [Demonstration of an Online Educational Application on Bayesian Default Priors.](static/talks/APS2019_WinterSmid.pdf) In R. van de Schoot (chair) Risks of Default Priors in Bayesian Structural Equation Models with Small Samples and Two Approaches on How to Avoid Those Risks. Talk presented at the 31st APS Annual Convention, Washington, DC.
+
+Winter, S. D. & Lek, K. M. (2018, July). [Bayesian Approximate Measurement Invariance: For Those Times When You Have Too Little or Too Much Data.](static/talks/EAM2018_WinterLek.pdf) Talk presented at VIII European Congress of Methodology, Jena, Germany.
+
+## Invited Talks/Workshops
+
+Winter, S. D. (2022, April). Assessing prior-data disagreement in Bayesian SEM. Invited webinar presented at Young Statisticians Europe (YSE). A recorded version of this webinar can be found here: <https://www.youtube.com/watch?v=Cuwhzd-8z4k>
+
+Winter, S. D.\* (2022, March). Creating Dynamic Reports from your Shiny App. Invited talk presented at R-Ladies St. Louis. A recorded version of this webinar can be found here: <https://www.youtube.com/watch?v=MvGAstDzLJk>

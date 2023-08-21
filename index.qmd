@@ -1,0 +1,20 @@
+---
+title: "Sonja D. Winter"
+image: headshot_winter.jpg
+about:
+  template: solana
+  image-shape: round
+  image-width: 12em
+
+---
+
+I am an assistant professor in the [Statistics, Measurement, and Evaluation in Education](https://education.missouri.edu/educational-school-counseling-psychology/degrees-programs/statistics-measurement-evaluation-education/) program at the College of Education and Human Development of the University of Missouri. 
+
+Specific research interests include:
+
+* Bayesian methods
+* Structural equation modeling
+* Longitudinal data
+* Measurement
+
+You can find an overview of my publications and talks by clicking on the links above. You can also look at my [full CV](static/winter_cv_2023.pdf).
